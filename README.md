@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NISHITA RAJAK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="centre" alt="coding" width="450" src="https://media.tenor.com/27F5jbqCVIUAAAAC/doll-cute.gif"/>
+<img align ="" alt="coding" width="500" src="https://media.istockphoto.com/id/1371856110/vector/woman-writing-code.jpg?s=612x612&w=0&k=20&c=FwzJ3X-4Cg0yxnt1N93Tikip6dv-mqC3a72TIM_OdNo="/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishitarajak" alt="nishitarajak" /></a> </p>
 
