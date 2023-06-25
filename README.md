@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm NISHITA RAJAK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitarajak&label=Profile%20views&color=0e75b6&style=flat" alt="nishitarajak" /> </p>
+<img align ="right" alt="coding" width="450" src="https://media.tenor.com/27F5jbqCVIUAAAAC/doll-cute.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishitarajak" alt="nishitarajak" /></a> </p>
 
@@ -34,3 +33,4 @@
 <a href="https://www.facebook.com/nishhita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nishhita" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__nishhitaaa__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/__nishhitaaa__?igshid=mzrlodbinwflza==" height="30" width="40" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitarajak&label=Profile%20views&color=0e75b6&style=flat" alt="nishitarajak" /> </p>
