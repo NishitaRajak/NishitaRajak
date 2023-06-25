@@ -1,4 +1,4 @@
-![logo](https://github.com/NishitaRajak/NishitaRajak/blob/main/fotor-ai-2023062602232hhhhhhhhh.jpg)
+![logo](https://github.com/NishitaRajak/NishitaRajak/blob/main/316314262_799307107835832_3975448158458378886_n%20(1).jpg)
 <h1 align="center">Hi 👋, I'm NISHITA RAJAK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="" alt="coding" width="500" src=""/>
