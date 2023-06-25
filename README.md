@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NISHITA RAJAK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="coding" width="450" src="https://media.tenor.com/27F5jbqCVIUAAAAC/doll-cute.gif"/>
+<img align ="centre" alt="coding" width="450" src="https://media.tenor.com/27F5jbqCVIUAAAAC/doll-cute.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishitarajak" alt="nishitarajak" /></a> </p>
 
