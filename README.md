@@ -1,4 +1,4 @@
-👋 Hello GitHub Folks!
+👋 Hello GitHub Folks:
 I'm Nishita Rajak, a dedicated Frontend Developer with a penchant for crafting engaging and user-centric web experiences. Currently based in Bhopal, I specialize in building robust applications using the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 🚀 What I Do:
