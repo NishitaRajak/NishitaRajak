@@ -35,6 +35,6 @@ Currently based in Bhopal, I specialize in building robust applications using th
 
 Excited to connect with fellow developers, share insights, and contribute to the ever-evolving world of web development!
 
-Happy coding! 🚀
+
 
 
