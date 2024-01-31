@@ -4,10 +4,14 @@
 Currently based in Bhopal, I specialize in building robust applications using the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 <h5 align="left">🚀 What I Do:</h5>
+<ul>
+  <li>💻 Frontend Development wizardry with a focus on intuitive user interfaces.</li>
+  <li>🌐 MERN Stack enthusiast, creating seamless full-stack applications.</li>
+  <li>🎨 UI/UX design aficionado, turning ideas into visually stunning realities.</li>
+</ul>
 
-💻 Frontend Development wizardry with a focus on intuitive user interfaces.
-🌐 MERN Stack enthusiast, creating seamless full-stack applications.
-🎨 UI/UX design aficionado, turning ideas into visually stunning realities.
+
+
 🌱 Current Focus:
 I'm currently immersed in Mern , pushing the boundaries of what's possible with this . Whether it's exploring the latest React features or optimizing server-side performance, I'm always hungry for knowledge.
 
