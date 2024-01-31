@@ -12,9 +12,9 @@ Currently based in Bhopal, I specialize in building robust applications using th
 
 
 
-🌱 Current Focus:
-I'm currently immersed in Mern , pushing the boundaries of what's possible with this . Whether it's exploring the latest React features or optimizing server-side performance, I'm always hungry for knowledge.
-
+<h5 align="left">🌱 Current Focus:</h5>
+<p>I'm currently immersed in Mern , pushing the boundaries of what's possible with this . Whether it's exploring the latest React features or optimizing server-side performance, I'm always hungry for knowledge.
+</p>
 <h5 align="left">🔧 Tech Stack:</h5>
 
 🖥️ Proficient in HTML, CSS, JavaScript , Bootstrap.
